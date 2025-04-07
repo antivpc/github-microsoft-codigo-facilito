@@ -23,4 +23,12 @@ Hola a todos, soy Martín. Quiero mejorar mi manejo de ramas y pull requests. Me
 
 Hola compañeros, soy Daniela de Argentina. Me encanta la programación y estoy aprendiendo a usar GitHub. Estoy explorando Web3 y Blockchain. Soy junior y no tengo experiencia laboral en IT. 
 
+---
+
+### Jimmy
+
+Hola, soy Jimmy de Bolivia. Soy desarrollador de software y aplicaciones web, actualmente estoy aprendiendo Java.
+
+---
+
 (Agregá tu nombre aquí con una breve presentación)

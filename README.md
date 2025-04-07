@@ -32,7 +32,7 @@ Nada está mal, ¡estamos acá para aprender!
 
 - Daniela Silvana Tochi (https://github.com/danielas-tochi)
 - Carlos Zottarelli (https://github.com/Frikilinux)
-- [Nombre del compañero 3](https://github.com/username2)
+- Jimmy Mayta (https://github.com/jimmymayta)
 - [Nombre del compañero 4](https://github.com/username3)
 
 ## Licencia
