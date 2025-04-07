@@ -1,6 +1,32 @@
 # github-microsoft-codigo-facilito
 
-Repositorio destinado a la práctica entre compañeros del Bootcamp GitHub con Microsoft y Código Facilito (2025)
+¡Bienvenidos y bienvenidas!
+
+Este es un espacio abierto y comunitario para aprender a usar Git y GitHub en equipo. La idea es practicar sin miedo a equivocarse, compartir ideas y quizás, crear algo juntos.
+
+## ¿Cómo participar?
+
+1. Hacé un **fork** o cloná el repo.
+2. Creá una rama con tu nombre o nombre de usuario: `rama-tu-nombre`
+3. Agregá tu presentación en el archivo `presentaciones.md`
+4. Subí tus cambios con un **pull request**
+5. Comentá, aportá, aprendé y disfrutá del proceso.
+
+## ¿Ideas para proyectos?
+
+Podés proponer una idea en el archivo `ideas.md`. ¡Todo suma!
+
+## Reglas simples
+
+- Respetá a tus compañeros.
+- Respetemos el trabajo y el ritmo de cada uno.
+- Pedí ayuda cuando lo necesites. Si tenés dudas, preguntá sin miedo.
+- Compartamos conocimientos y errores.
+- No tengas miedo de romper nada: ¡estamos para practicar!
+
+Nada está mal, ¡estamos acá para aprender!
+
+¡Vamos a hacer de esto una linda experiencia para todos!
 
 ## Desarrollado por
 
