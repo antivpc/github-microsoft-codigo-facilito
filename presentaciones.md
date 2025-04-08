@@ -34,18 +34,17 @@ Hola, soy Jimmy de Bolivia. Soy desarrollador de software y aplicaciones web, ac
 ### Carlos
 Hola, soy Carlos de Argentina. Me gustaría mejorar mis habilidades en GitHub. Actualmente, como principiante, tengo concimientos en Python, Java, JavaScript, React, Next.js y otras tecnologías relacionadas al desarrollo web.
 
-
 ---
 
 ### Enmanuel 
 
 Hola mundo!, soy Enmanuel de Nicaragua. un apasionado por el desarrollo web y bases de datos. Actualmente estoy aprendiendo a crear modelos IA con python.
 
-
-(Agregá tu nombre aquí con una breve presentación)
-
 ---
 ### Alejandro
 
 Hola a todos, aqui Alejandro al habla desde Espana. Actualmente trabajo en un banco en Cracovia, Polonia en el cual mi funcion principal es Junior Cloud Engineer. Trabajo con GCP, implemento pipelines en Jenkins programadas en Groovy. 
 En mi tiempo libre(aunque tengo poco) me gusta estudiar Rust, Terraform, y ademas estudio para sacarme el certificado de Associate Cloud Engineer.
+
+---
+(Agregá tu nombre aquí con una breve presentación)
