@@ -47,4 +47,10 @@ Hola a todos, aqui Alejandro al habla desde Espana. Actualmente trabajo en un ba
 En mi tiempo libre(aunque tengo poco) me gusta estudiar Rust, Terraform, y ademas estudio para sacarme el certificado de Associate Cloud Engineer.
 
 ---
+### Vicente
+
+¡Hola! Soy Vicente y me considero un eterno aprendiz. Resido en CDMX y actualmente me desempeño como Full Stack Engineering Specialist y me centro en desarrollo de aplicaciones móviles. Me gusta escribir articulos y compartir mi conocimiento con la comunidad, les dejo mi [sitio web](https://vicenteguzman.com/) por si se quieren echar una vuelta.
+
+
+---
 (Agregá tu nombre aquí con una breve presentación)
