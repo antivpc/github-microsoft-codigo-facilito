@@ -46,5 +46,11 @@ Hola mundo!, soy Enmanuel de Nicaragua. un apasionado por el desarrollo web y ba
 Hola a todos, aqui Alejandro al habla desde Espana. Actualmente trabajo en un banco en Cracovia, Polonia en el cual mi funcion principal es Junior Cloud Engineer. Trabajo con GCP, implemento pipelines en Jenkins programadas en Groovy. 
 En mi tiempo libre(aunque tengo poco) me gusta estudiar Rust, Terraform, y ademas estudio para sacarme el certificado de Associate Cloud Engineer.
 
+----
+
+### Rel
+
+Hola, soy Rel Guzmán, de Perú. Programo en Python y JavaScript. Me enfoqué en la etapa de diseño y frontend hasta ahora y trabajo con los stacks MERN / PERN / MENN para cosas web. Sé mucho sobre la IA teórica. Me gustaría profundizar en DevOps con Github, si es que de eso se trata el bootcamp.
+
 ---
 (Agregá tu nombre aquí con una breve presentación)
