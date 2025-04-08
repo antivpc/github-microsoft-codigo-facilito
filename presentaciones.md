@@ -31,4 +31,7 @@ Hola, soy Jimmy de Bolivia. Soy desarrollador de software y aplicaciones web, ac
 
 ---
 
+### Carlos
+Hola, soy Carlos de Argentina. Me gustaría mejorar mis habilidades en GitHub. Actualmente, como principiante, tengo concimientos en Python, Java, JavaScript, React, Next.js y otras tecnologías relacionadas al desarrollo web.
+
 (Agregá tu nombre aquí con una breve presentación)
