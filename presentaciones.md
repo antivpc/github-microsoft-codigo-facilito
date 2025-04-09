@@ -60,6 +60,8 @@ Hola, soy Rel Guzmán, de Perú. Programo en Python y JavaScript. Me enfoqué en
 
 ---
 ### Alan
+
 Hola! Soy Alan, de México. Programo principalmente en Python y me encanta todo lo que tiene que ver con análisis de datos y bases de datos, además de aplicaciones móviles de Swift o Flutter con Dart, me enfoco mucho más en Backend y actualmente estoy estudiando la universidad.
+
 ---
 (Agregá tu nombre aquí con una breve presentación)
