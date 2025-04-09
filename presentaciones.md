@@ -78,5 +78,10 @@ En mi tiempo libre disfruto los videojuegos, el fútbol (¡Visca el Barça!) y a
 (¡Estoy listo para colaborar y compartir código con el equipo!)
 
 ---
+### Tomy
+
+Hola soy Tomy de Bolivia, me gusta programar, uso python y aun estoy aprendiendo, listo para aprender de y con ustedes
+
+---
 
 (Agregá tu nombre aquí con una breve presentación)
