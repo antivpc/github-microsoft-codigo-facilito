@@ -53,4 +53,10 @@ En mi tiempo libre(aunque tengo poco) me gusta estudiar Rust, Terraform, y adema
 Hola, soy Rel Guzmán, de Perú. Programo en Python y JavaScript. Me enfoqué en la etapa de diseño y frontend hasta ahora y trabajo con los stacks MERN / PERN / MENN para cosas web. Sé mucho sobre la IA teórica. Me gustaría profundizar en DevOps con Github, si es que de eso se trata el bootcamp.
 
 ---
+### Vicente
+
+¡Hola! Soy Vicente y me considero un eterno aprendiz. Resido en CDMX y actualmente me desempeño como Full Stack Engineering Specialist y me centro en desarrollo de aplicaciones móviles. Me gusta escribir articulos y compartir mi conocimiento con la comunidad, les dejo mi [sitio web](https://vicenteguzman.com/) por si se quieren echar una vuelta.
+
+
+---
 (Agregá tu nombre aquí con una breve presentación)
