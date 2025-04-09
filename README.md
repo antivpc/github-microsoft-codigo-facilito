@@ -33,8 +33,8 @@ Nada está mal, ¡estamos acá para aprender!
 - Daniela Silvana Tochi (https://github.com/danielas-tochi)
 - Carlos Zottarelli (https://github.com/Frikilinux)
 - Jimmy Mayta (https://github.com/jimmymayta)
-- [Nombre del compañero 4](https://github.com/username3)
+- Vicente Guzmán(https://github.com/luciod3v)
 
-## Licencia
+## [Licencia](https://github.com/LucioD3v/github-microsoft-codigo-facilito/blob/main/LICENSE)
 
-A definir... 
+
