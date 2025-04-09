@@ -35,6 +35,6 @@ Nada está mal, ¡estamos acá para aprender!
 - Jimmy Mayta (https://github.com/jimmymayta)
 - Vicente Guzmán(https://github.com/luciod3v)
 
-## Licencia
+## [Licencia](https://github.com/LucioD3v/github-microsoft-codigo-facilito/blob/main/LICENSE)
 
 
