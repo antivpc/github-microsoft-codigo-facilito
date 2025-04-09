@@ -69,5 +69,14 @@ Hola! Soy Alan, de México. Programo principalmente en Python y me encanta todo 
 Hola! mi nombre es Josue, soy de México. Me apasiona el desarrollo web y bases de datos; tengo concimientos en Java, JavaScript, SQL, React y otras tecnologías relacionadas al desarrollo web.
 
 ---
+### Raúl 
+
+¡Hola! Soy Raúl, de Barcelona. Actualmente me estoy formando como desarrollador iOS especializado en Swift. Apasionado de todo el ecosistema Apple 🍏 (¡sí, me sé hasta los seriales de memoria!). Me encanta ayudar a otros en comunidades como los foros de soporte de Apple y el grupo de Discord de MoureDev. 
+Estoy construyendo mi camino profesional desde cero con muchas ganas y una visión clara: trabajar desarrollando apps que marquen la diferencia.  
+En mi tiempo libre disfruto los videojuegos, el fútbol (¡Visca el Barça!) y aprender sin parar.
+
+(¡Estoy listo para colaborar y compartir código con el equipo!)
+
+---
 
 (Agregá tu nombre aquí con una breve presentación)
