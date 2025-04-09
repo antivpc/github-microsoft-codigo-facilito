@@ -12,6 +12,10 @@ Este es un espacio abierto y comunitario para aprender a usar Git y GitHub en eq
 4. Subí tus cambios con un **pull request**
 5. Comentá, aportá, aprendé y disfrutá del proceso.
 
+## Recursos
+
+Encontrarás recursos útiles sobre certificación GitHub en el archivo [recursos.md](recursos.md).
+
 ## ¿Ideas para proyectos?
 
 Podés proponer una idea en el archivo `ideas.md`. ¡Todo suma!
