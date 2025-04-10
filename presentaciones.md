@@ -84,4 +84,11 @@ Hola soy Tomy de Bolivia, me gusta programar, uso python y aun estoy aprendiendo
 
 ---
 
+### Alfredo
+
+Hola soy Alfredo Gomez Culma de Colombia, me gusta el desarrollo web, actualmente soy estudiante de ingenieria de sistemas. Estoy listo para aprender con ustedes, saludos!
+
+---
+
+
 (Agregá tu nombre aquí con una breve presentación)
