@@ -186,5 +186,11 @@ Hola soy Alfredo Gomez Culma de Colombia, me gusta el desarrollo web, actualment
 Hola, soy [Jose Rodriguez](https://www.linkedin.com/in/jose-eduardo-rodriguez-fernandez) pero todo el mundo me llama **Chele**, soy de España (Andalucia). Actualmente trabajo como desarrollador de software en una consultora en remoto(fullstack web, automatizaciones, sistemas embebidos, lo que surja y pueda aportar) y estudio en [42Malaga Fundacion Telefonica](https://www.fundaciontelefonica.com/empleabilidad/campus-42/). Tambien estoy cursando el bootcamp de [Devops Nivel 2](https://codigofacilito.com/programas/devops-nivel-2) en CodigoFacilito.
 Listo para aprender y ayudar en todo lo que pueda grupo 💪!!
 
+
+---
+### Puroh
+
+Hola soy Puroh de Colombia, me gusta programar, uso python y otros lenguajes aun estoy aprendiendo, listo para aprender con y de ustedes en comunidad.
+
 ---
 (Agregá tu nombre aquí con una breve presentación)
