@@ -82,6 +82,98 @@ En mi tiempo libre disfruto los videojuegos, el fútbol (¡Visca el Barça!) y a
 
 Hola soy Tomy de Bolivia, me gusta programar, uso python y aun estoy aprendiendo, listo para aprender de y con ustedes
 
+
+--- 
+
+### Frantizek
+
+#### 🪩 ¡Hola Mundo!, soy Francisco... 🎉  
+
+> 🚀 "Si el código compila a la primera, sospecha."  
+
+📍 De: Planeta Tierra (aunque a veces me siento en Marte) 🌍  
+💻 Tech Stack:  
++ "Lo que sea que no me complique innecesariamente la vida"  
++ Un toque de magia negra (a.k.a. Stack Overflow) 🔮  
+
+📊 Tabla de Mis Habilidades (100% real no fake):  
+
+| Habilidad          | Nivel Real 😅 | Nivel en mi CV 🤑 |  
+|--------------------|--------------|------------------|  
+| Programar sin bugs | 2%           | 110%             |  
+| CSS centrado       | "¿Qué es eso?"| "Experto"         |  
+| Git (sin miedo)    | git push --force 💥 | "Git Sensei" 🥋 |  
+| Café por día       | 5 tazas ☕☕☕☕☕ | "Soy agua pura" 💧 |  
+
+🎮 Hobbies:  
+- Debuggear la vida (spoiler: aún no encuentro el error).  
+- Coleccionar pestañas de Chrome (actualmente: 147 abiertas).  
+
+
+🔥 Meta 2025:  
+- Dominar GitHub (o al menos entender los merge conflicts).  
+- Crear una IA que me haga el café (prioridades).  
+- Conquistar el mundo... o terminar este curso online.  
+
+
+🤝 ¡Colaboremos! (O al menos riámonos de nuestros errores juntos)  
+
+
+💻 **Mi primer "Hola Mundo":**  
+```java
+// ¡Requiere 5 clases y 42 líneas para ser "correcto"!
+package com.example.helloworld;
+
+public interface HelloWorldService {
+    void printHelloWorld();
+}
+
+public class HelloWorldServiceImpl implements HelloWorldService {
+    private final HelloWorldPrinter printer;
+
+    public HelloWorldServiceImpl(HelloWorldPrinter printer) {
+        this.printer = printer;
+    }
+
+    @Override
+    public void printHelloWorld() {
+        printer.print("Hola Mundo");
+    }
+}
+
+public interface HelloWorldPrinter {
+    void print(String message);
+}
+
+public class SystemOutPrinter implements HelloWorldPrinter {
+    @Override
+    public void print(String message) {
+        System.out.println(message);
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        HelloWorldPrinter printer = new SystemOutPrinter();
+        HelloWorldService service = new HelloWorldServiceImpl(printer);
+        service.printHelloWorld();
+    }
+}
+```
+
+Dato interesante:
+| Lenguaje | Líneas | Razón                              |
+|----------|--------|------------------------------------|
+| Java     | 42+    | "FactoryFactoryHelloWorldImpl"     |
+| C++      | 21     | Paranoia de seguridad              |
+| C#       | 18     | Demostrando DI antes de nacer      |
+| COBOL    | 4      | Verbosidad arqueológica            |
+| Python   | 1      | Aquí los devs somos felices 🐍❤️  |
+
+
+✨ Bonus: "Si ves este mensaje, es porque mi CSS no se rompió. ¡Celebremos!" 🎊  
+
+
 ---
 
 (Agregá tu nombre aquí con una breve presentación)
