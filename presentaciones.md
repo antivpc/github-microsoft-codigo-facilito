@@ -213,3 +213,9 @@ Me llamo Brayan Toro, también me pueden encontrar como @trbureiyan, soy un estu
 Pueden encontrar mas sobre mi en mi Bento: [bento.me/trbureiyan](https://bento.me/trbureiyan)
 
 Espero apoyar, ayudar y contribuir a esta pequeña comunidad de Github 👻
+
+
+---
+### Angel Martínez (@angelmartz)
+
+Hola, mi nombre es Angel, soy de la Ciudad de México, actualmente estudio Ingeniería en Sistemas en la Universidad UK, soy programador backend, manejo PHP, Java, Python y Javascript
