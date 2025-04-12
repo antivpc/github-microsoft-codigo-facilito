@@ -209,8 +209,7 @@ Hola a todos! Soy David Barrera de Guayaquil, Ecuador. Trabajo en desarrollo web
 ### Brayan Toro Bustos (@trbureiyan)
 
 Hola comunidad de CodigoFacilito!, un amable saludo a todos.
-Me llamo Brayan Toro, tambien me pueden encontrar como @trbureiyan, soy un estudiante de Ingeniería de Software en Colombia con una curiosidad apasionada en el mundo e industria del software. Actualmente me estoy sumergiendo en T-stack, Cloud y DevOps, explorando tecnologías desde paginas y aplicaciones web, como Docker y Cloud Infrastructure para construir sistemas escalables y automatizados. Creo en el poder de la colaboración, el aprendizaje continuo y la creatividad para transformar ideas en soluciones impactantes. ¡Emocionado por conectar y construir juntos!
-
+Me llamo Brayan Toro, también me pueden encontrar como @trbureiyan, soy un estudiante de Ingeniería de Software en Colombia con una curiosidad apasionada en el mundo e industria del software. Actualmente me estoy sumergiendo en T-stack, Cloud y DevOps, explorando tecnologías desde páginas y aplicaciones web, como Docker y Cloud Infrastructure para construir sistemas escalables y automatizados. Creo en el poder de la colaboración, el aprendizaje continuo y la creatividad para transformar ideas en soluciones impactantes. ¡Emocionado por conectar y construir juntos!
 Pueden encontrar mas sobre mi en mi Bento: [bento.me/trbureiyan](https://bento.me/trbureiyan)
 
 Espero apoyar, ayudar y contribuir a esta pequeña comunidad de Github 👻
