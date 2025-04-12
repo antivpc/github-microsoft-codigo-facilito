@@ -204,3 +204,13 @@ Hola, soy Félix Rodríguez, desarrollador web FullStack. Hace casi dos años de
 ### David E. Barrera
 
 Hola a todos! Soy David Barrera de Guayaquil, Ecuador. Trabajo en desarrollo web desde hace ya 5+ años. Git y GitHub lo he aprendido a porrazos, asi que espero afinar mis conocimientos y expandirlos.
+
+---
+### Brayan Toro Bustos (@trbureiyan)
+
+Hola comunidad de CodigoFacilito!, un amable saludo a todos.
+Me llamo Brayan Toro, tambien me pueden encontrar como @trbureiyan, soy un estudiante de Ingeniería de Software en Colombia con una curiosidad apasionada en el mundo e industria del software. Actualmente me estoy sumergiendo en T-stack, Cloud y DevOps, explorando tecnologías desde paginas y aplicaciones web, como Docker y Cloud Infrastructure para construir sistemas escalables y automatizados. Creo en el poder de la colaboración, el aprendizaje continuo y la creatividad para transformar ideas en soluciones impactantes. ¡Emocionado por conectar y construir juntos!
+
+Pueden encontrar mas sobre mi en mi Bento: [bento.me/trbureiyan](https://bento.me/trbureiyan)
+
+Espero apoyar, ayudar y contribuir a esta pequeña comunidad de Github 👻
