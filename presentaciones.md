@@ -219,3 +219,17 @@ Espero apoyar, ayudar y contribuir a esta pequeña comunidad de Github 👻
 ### Angel Martínez (@angelmartz)
 
 Hola, mi nombre es Angel, soy de la Ciudad de México, actualmente estudio Ingeniería en Sistemas en la Universidad UK, soy programador backend, manejo PHP, Java, Python y Javascript
+
+
+--
+### Andrés Vinces [(@vincesmandres)](https://www.instagram.com/vincesmandres)
+
+¡Hola! Soy Andrés, de Ecuador. Ingeniero Civil, Data Science Jr y un AstroGeoGeek 🌌  
+Actualmente exploro el fascinante mundo del **Data Science & Machine Learning**.
+
+🔧 Estoy desarrollando una app en Python que genera **espectros sísmicos** según la normativa ecuatoriana.  
+📂 Puedes verla aquí → [Repositorio en GitHub](https://github.com/vincesmandres/Code_Normativa.git)
+
+💻 Experiencia en: **C++**, **Python**, **R**, **Julia**, **JavaScript**
+
+Saludos!
