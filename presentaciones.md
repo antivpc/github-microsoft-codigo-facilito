@@ -231,3 +231,5 @@ Actualmente exploro el fascinante mundo del **Data Science & Machine Learning**.
 📂 Puedes verla aquí → [Repositorio en GitHub](https://github.com/vincesmandres/Code_Normativa.git)
 
 💻 Experiencia en: **C++**, **Python**, **R**, **Julia**, **JavaScript**
+
+Saludos!
