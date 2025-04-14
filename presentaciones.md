@@ -253,6 +253,7 @@ Hola, soy desarrolladora web fullstack y me gustaría aprender y practicar git d
 =======
 ###Sergio Rodriguez Rivero 
 Hola, soy diseñador gráfico y UXUI, estudiando front end. Me encantó la propuesta de Daniela, es una capa, y me ayudo a lograr que suba esta presentación.
+
 Algunas de mis redes:
  https://www.behance.net/sergiofarori
  https://www.linkedin.com/in/sfarori/
