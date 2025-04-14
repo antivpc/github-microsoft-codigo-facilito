@@ -247,6 +247,11 @@ Saludos!
 Hola, soy desarrolladora web fullstack y me gustaría aprender y practicar git de manera colaborativa, ya que no he tenido mucha oportunidad de hacerlo.
 
 ---
+### Silvano
+
+[[W3](https://lode.uno)]|[[GH](https://github.com/sjlvanq)]|[[LN](https://www.linkedin.com/in/silvano-emanuel-roqu%C3%A9s-054897133/)] Profesor de Lengua y Literatura que aprendió a escribir en el prompt del DOS y actualmente trabaja de Uber moto en Tucumán, Argentina. ~«El código con branches y workflow, todo lo demás a master/main»~
+
+---
 (Agregá tu nombre aquí con una breve presentación)
 
 
