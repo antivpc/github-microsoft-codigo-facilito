@@ -252,6 +252,13 @@ Hola, soy desarrolladora web fullstack y me gustaría aprender y practicar git d
 [[W3](https://lode.uno)]|[[GH](https://github.com/sjlvanq)]|[[LN](https://www.linkedin.com/in/silvano-emanuel-roqu%C3%A9s-054897133/)] Profesor de Lengua y Literatura que aprendió a escribir en el prompt del DOS y actualmente trabaja de Uber moto en Tucumán, Argentina. ~«El código con branches y workflow, todo lo demás a master/main»~
 
 ---
+### Cristian Ortiz
+
+Hola, soy Cristian de Chile. Ingeniero Civil en Computación e Informática. Me deempeño como Consultor Sr, además de administrar el área de Control de Versiones del Cliente. Actualmente la tendencia nos esta dirigiendo a unirnos a las tecnologías en la nube por lo tanto, se me hace imprecindible contar con un gran conocimiento de herramientas para su utilización y actualmente quien tiene las de ganar es GIT como interprete de Control de Versiones y lo demás (GITHUB - GITLAB - BITBUCKET, etc) es algo que debe definir cada empresa y de ahí nos acoplaremos a esa decisión.
+
+Saludos!!!!.
+
+---
 (Agregá tu nombre aquí con una breve presentación)
 
 
