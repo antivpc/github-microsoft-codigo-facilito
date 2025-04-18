@@ -2,34 +2,46 @@
 
 Lo ideal es participar del bootcamp y aprender los pasos básicos de Git y GitHub. Sin embargo, si ya tienes conocimientos previos, aquí tienes una guía rápida para empezar a usar Git y colaborar en este repositorio:
 
-## 1. Clonar el repositorio (solo la primera vez)
+### 1. Clonar el repositorio (solo la primera vez)
 En la terminal: 
 
+```shell
 git clone https://github.com/DanielaS-Tochi/github-microsoft-codigo-facilito.git
+```
 
 También puedes clonarlo desde Visual Studio Code o el IDE que prefieras.
 
-2. Entrar a la carpeta del proyecto
+### 2. Entrar a la carpeta del proyecto
 
+```shell
 cd github-microsoft-codigo-facilito
+```
 
-3. Crear una rama nueva con tu nombre
+### 3. Crear una rama nueva con tu nombre
 
+```shell
 git checkout -b rama-tu-nombre
+```
 
-4. Agregar tus cambios
+### 4. Agregar tus cambios
 
+```shell
 git add .
+```
 
-5. Hacer un commit (guardar cambios)
+### 5. Hacer un commit (guardar cambios)
 
+```shell
 git commit -m "Escribí aquí qué hiciste"
+```
 
-6. Subir tu rama al repositorio
+### 6. Subir tu rama al repositorio
 
+```shell
 git push origin rama-tu-nombre
+```
 
-7. Crear un Pull Request (PR)
+### 7. Crear un Pull Request (PR)
 
 Entrá al repo:
 👉 https://github.com/DanielaS-Tochi/github-microsoft-codigo-facilito
@@ -38,18 +50,22 @@ Te va a aparecer un cartel para hacer un Pull Request.
 
 Completá el formulario y enviá.
 
-8. Actualizar tu copia local con los cambios nuevos
+### 8. Actualizar tu copia local con los cambios nuevos
 Antes de empezar a trabajar:
 
+```shell
 git checkout main
 git pull origin main
+```
 
 Si querés actualizar tu rama con lo último de main:
 
+```shell
 git checkout rama-tu-nombre
 git merge origin/main
+```
 
-### Tips 🧠
+## Tips 🧠
 
 Siempre trabajá en tu propia rama.
 
