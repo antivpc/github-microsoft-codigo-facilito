@@ -287,3 +287,17 @@ Un saludo para todos y mucho éxito en este camino del desarrollo.
 
 
 =======
+
+### Ariel
+
+Hola Bunas. Mi nombre es Ariel Benitez. Acabo de cumplir 48 años, si un montón, pero siempre hay tiempo para aprender nuevas herramientas, para repasar los conocimientos en herramientas que se usan hanitualmente o no tán habitualmente.
+
+Me considero un entuciasta de las tecnologías de información y desde siemrpe busco estar informado y entrenado en distintas tecnologías. 
+
+Actualmente mis intereses pasan por la Ciencia de Datos.
+
+git y gitHub son también ampliamente utilizados en Data Science, es por ello que he decidido tomar este bootcamp y deseo certificar mis conocimientos.
+
+Desde ya espero que todos logremos hacerlo 
+
+Saludos dese Corrientes - Argentina.
