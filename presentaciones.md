@@ -271,6 +271,18 @@ Estoy lista para aprender y ayudar en todo lo que pueda al grupo, no dudes en es
 [![GitHub](https://img.shields.io/badge/GitHub-taniariveradev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniariveradev)
 
 ---
+
+### Jorge
+
+Hola, soy Jorge de Madrid, España. Actualmente trabajo como Técnico de Electrónica de Potencia de Trenes, y a la vez estoy estudiando el ciclo formativo de Desarrollo de Aplicaciones Multiplataforma (DAM). Me apasiona la tecnología y el desarrollo de software, y por eso me estoy formando en lenguajes como Java, C#, Kotlin, HTML y CSS.
+
+Hace un tiempo realicé un curso de Python en Código Facilito y en estos momentos estoy aprendiendo a utilizar Unity para empezar a crear mis propios videojuegos.
+
+Estoy compartiendo parte de mi aprendizaje y proyectos en GitHub, donde intento aportar tanto como aprendo de otros. Me motiva mucho pertenecer a una comunidad activa donde podamos aprender juntos, apoyarnos y crecer profesionalmente.
+
+Un saludo para todos y mucho éxito en este camino del desarrollo.
+
+---
 (Agregá tu nombre aquí con una breve presentación)
 
 
