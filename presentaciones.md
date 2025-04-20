@@ -286,7 +286,7 @@ Un saludo para todos y mucho éxito en este camino del desarrollo.
 
 ### Ariel
 
-Hola Bunas. Mi nombre es Ariel Benitez. Acabo de cumplir 48 años, si un montón, pero siempre hay tiempo para aprender nuevas herramientas, para repasar los conocimientos en herramientas que se usan hanitualmente o no tán habitualmente.
+Hola Buenas. Mi nombre es Ariel Benitez. Acabo de cumplir 48 años, si un montón, pero siempre hay tiempo para aprender nuevas herramientas, para repasar los conocimientos en herramientas que se usan hanitualmente o no tán habitualmente.
 
 Me considero un entuciasta de las tecnologías de información y desde siemrpe busco estar informado y entrenado en distintas tecnologías. 
 
@@ -307,6 +307,14 @@ Algunas de mis redes:
  https://www.linkedin.com/in/sfarori/
 
  ¡Exitos a todos!
+
+---
+
+### Hugo 
+
+Hola cole*gits* 😄, vivo en Bolivia, soy economista, analista de datos, emprendedor, diseñador gráfico y desarrollador web/móvil, actualmente doy clases en universidades sobre Kotlin y Desarrollo Móvil con Android Studio. Hace un tiempo aprendí Git y GitHub con el video de **freecodecamp** https://www.youtube.com/watch?v=mBYSUUnMt9M. Si bien tengo una buena base y experiencia en Git y GitHub, me interesa mucho el certificado del curso de codigofacilito y refrescar mis conocimientos, así que este repositorio me parece un buen punto de inicio para hacerlo.
+
+👋🏽¡Saludos y éxitos!✨
 
 ---
 
