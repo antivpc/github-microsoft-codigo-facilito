@@ -286,7 +286,7 @@ Un saludo para todos y mucho éxito en este camino del desarrollo.
 
 ### Ariel
 
-Hola Bunas. Mi nombre es Ariel Benitez. Acabo de cumplir 48 años, si un montón, pero siempre hay tiempo para aprender nuevas herramientas, para repasar los conocimientos en herramientas que se usan hanitualmente o no tán habitualmente.
+Hola Buenas. Mi nombre es Ariel Benitez. Acabo de cumplir 48 años, si un montón, pero siempre hay tiempo para aprender nuevas herramientas, para repasar los conocimientos en herramientas que se usan hanitualmente o no tán habitualmente.
 
 Me considero un entuciasta de las tecnologías de información y desde siemrpe busco estar informado y entrenado en distintas tecnologías. 
 
@@ -315,6 +315,21 @@ Algunas de mis redes:
 Hola cole*gits* 😄, vivo en Bolivia, soy economista, analista de datos, emprendedor, diseñador gráfico y desarrollador web/móvil, actualmente doy clases en universidades sobre Kotlin y Desarrollo Móvil con Android Studio. Hace un tiempo aprendí Git y GitHub con el video de **freecodecamp** https://www.youtube.com/watch?v=mBYSUUnMt9M. Si bien tengo una buena base y experiencia en Git y GitHub, me interesa mucho el certificado del curso de codigofacilito y refrescar mis conocimientos, así que este repositorio me parece un buen punto de inicio para hacerlo.
 
 👋🏽¡Saludos y éxitos!✨
+
+---
+
+### Manuel
+
+¡Hola a todos!👋 
+Soy Manuel Correa, de Perú. Soy bachiller en Ingeniería de Sistemas y tengo experiencia laboral como Analista de Aplicaciones.
+Me considero un apasionado de la tecnología, el desarrollo de software  y por seguir aprendiendo cada día. 
+
+---
+
+### Jesús Oviedo Riquelme
+
+Soy Jesús Oviedo Riquelme, desarrollador de software enfocado en ingeniería de datos, machine learning y MLOps. Trabajo con herramientas como Docker, Terraform, GitHub Actions, MLflow, dbt, Kestra y Spark. Conozco plataformas como GCP y AWS, y tengo experiencia en CI/CD, visualización con Looker Studio y metodologías ágiles. Cuento con habilidades en comunicación efectiva, pensamiento analítico, resolución de problemas y trabajo en equipo.  
+Más sobre mí en [Medium](https://medium.com/@j92riquelme), [LinkedIn](https://linkedin.com/in/jesusoviedoriquelme) y [Twitter](https://twitter.com/jesus__oviedo)
 
 ---
 (Agregá tu nombre aquí con una breve presentación [ver los ejemplos al inicio])
