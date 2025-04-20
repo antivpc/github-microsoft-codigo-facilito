@@ -309,4 +309,12 @@ Algunas de mis redes:
  ¡Exitos a todos!
 
 ---
+
+### Jesús Oviedo Riquelme
+
+Soy Jesús Oviedo Riquelme, desarrollador de software enfocado en ingeniería de datos, machine learning y MLOps. Trabajo con herramientas como Docker, Terraform, GitHub Actions, MLflow, dbt, Kestra y Spark. Conozco plataformas como GCP y AWS, y tengo experiencia en CI/CD, visualización con Looker Studio y metodologías ágiles. Cuento con habilidades en comunicación efectiva, pensamiento analítico, resolución de problemas y trabajo en equipo.  
+Más sobre mí en [Medium](https://medium.com/@j92riquelme), [LinkedIn](https://linkedin.com/in/jesusoviedoriquelme) y [Twitter](https://twitter.com/jesus__oviedo)
+
+
+---
 (Agregá tu nombre aquí con una breve presentación [ver los ejemplos al inicio])
