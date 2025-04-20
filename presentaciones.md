@@ -309,4 +309,12 @@ Algunas de mis redes:
  ¡Exitos a todos!
 
 ---
+
+### Hugo 
+
+Hola cole*gits* 😄, vivo en Bolivia, soy economista, analista de datos, emprendedor, diseñador gráfico y desarrollador web/móvil, actualmente doy clases en universidades sobre Kotlin y Desarrollo Móvil con Android Studio. Hace un tiempo aprendí Git y GitHub con el video de **freecodecamp** https://www.youtube.com/watch?v=mBYSUUnMt9M. Si bien tengo una buena base y experiencia en Git y GitHub, me interesa mucho el certificado del curso de codigofacilito y refrescar mis conocimientos, así que este repositorio me parece un buen punto de inicio para hacerlo.
+
+👋🏽¡Saludos y éxitos!✨
+
+---
 (Agregá tu nombre aquí con una breve presentación [ver los ejemplos al inicio])
