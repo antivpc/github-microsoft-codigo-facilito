@@ -309,4 +309,12 @@ Algunas de mis redes:
  ¡Exitos a todos!
 
 ---
+
+### Manuel
+
+¡Hola a todos!👋 
+Soy Manuel Correa, de Perú. Soy bachiller en Ingeniería de Sistemas y tengo experiencia laboral como Analista de Aplicaciones.
+Me considero un apasionado de la tecnología, el desarrollo de software  y por seguir aprendiendo cada día. 
+
+---
 (Agregá tu nombre aquí con una breve presentación [ver los ejemplos al inicio])
