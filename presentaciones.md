@@ -89,44 +89,44 @@ En mi tiempo libre disfruto los videojuegos, el fútbol (¡Visca el Barça!) y a
 
 Hola soy Tomy de Bolivia, me gusta programar, uso python y aun estoy aprendiendo, listo para aprender de y con ustedes
 
-
---- 
+---
 
 ### Frantizek
 
-#### 🪩 ¡Hola Mundo!, soy Francisco... 🎉  
+#### 🪩 ¡Hola Mundo!, soy Francisco... 🎉
 
-> 🚀 "Si el código compila a la primera, sospecha."  
+> 🚀 "Si el código compila a la primera, sospecha."
 
 📍 De: Planeta Tierra (aunque a veces me siento en Marte) 🌍  
-💻 Tech Stack:  
-+ "Lo que sea que no me complique innecesariamente la vida"  
-+ Un toque de magia negra (a.k.a. Stack Overflow) 🔮  
+💻 Tech Stack:
 
-📊 Tabla de Mis Habilidades (100% real no fake):  
+- "Lo que sea que no me complique innecesariamente la vida"
+- Un toque de magia negra (a.k.a. Stack Overflow) 🔮
 
-| Habilidad          | Nivel Real 😅 | Nivel en mi CV 🤑 |  
-|--------------------|--------------|------------------|  
-| Programar sin bugs | 2%           | 110%             |  
-| CSS centrado       | "¿Qué es eso?"| "Experto"         |  
-| Git (sin miedo)    | git push --force 💥 | "Git Sensei" 🥋 |  
-| Café por día       | 5 tazas ☕☕☕☕☕ | "Soy agua pura" 💧 |  
+📊 Tabla de Mis Habilidades (100% real no fake):
 
-🎮 Hobbies:  
-- Debuggear la vida (spoiler: aún no encuentro el error).  
-- Coleccionar pestañas de Chrome (actualmente: 147 abiertas).  
+| Habilidad          | Nivel Real 😅       | Nivel en mi CV 🤑  |
+| ------------------ | ------------------- | ------------------ |
+| Programar sin bugs | 2%                  | 110%               |
+| CSS centrado       | "¿Qué es eso?"      | "Experto"          |
+| Git (sin miedo)    | git push --force 💥 | "Git Sensei" 🥋    |
+| Café por día       | 5 tazas ☕☕☕☕☕  | "Soy agua pura" 💧 |
 
+🎮 Hobbies:
 
-🔥 Meta 2025:  
-- Dominar GitHub (o al menos entender los merge conflicts).  
-- Crear una IA que me haga el café (prioridades).  
-- Conquistar el mundo... o terminar este curso online.  
+- Debuggear la vida (spoiler: aún no encuentro el error).
+- Coleccionar pestañas de Chrome (actualmente: 147 abiertas).
 
+🔥 Meta 2025:
 
-🤝 ¡Colaboremos! (O al menos riámonos de nuestros errores juntos)  
+- Dominar GitHub (o al menos entender los merge conflicts).
+- Crear una IA que me haga el café (prioridades).
+- Conquistar el mundo... o terminar este curso online.
 
+🤝 ¡Colaboremos! (O al menos riámonos de nuestros errores juntos)
 
-💻 **Mi primer "Hola Mundo":**  
+💻 **Mi primer "Hola Mundo":**
+
 ```java
 // ¡Requiere 5 clases y 42 líneas para ser "correcto"!
 package com.example.helloworld;
@@ -169,17 +169,15 @@ public class Main {
 ```
 
 Dato interesante:
-| Lenguaje | Líneas | Razón                              |
+| Lenguaje | Líneas | Razón |
 |----------|--------|------------------------------------|
-| Java     | 42+    | "FactoryFactoryHelloWorldImpl"     |
-| C++      | 21     | Paranoia de seguridad              |
-| C#       | 18     | Demostrando DI antes de nacer      |
-| COBOL    | 4      | Verbosidad arqueológica            |
-| Python   | 1      | Aquí los devs somos felices 🐍❤️  |
+| Java | 42+ | "FactoryFactoryHelloWorldImpl" |
+| C++ | 21 | Paranoia de seguridad |
+| C# | 18 | Demostrando DI antes de nacer |
+| COBOL | 4 | Verbosidad arqueológica |
+| Python | 1 | Aquí los devs somos felices 🐍❤️ |
 
-
-✨ Bonus: "Si ves este mensaje, es porque mi CSS no se rompió. ¡Celebremos!" 🎊  
-
+✨ Bonus: "Si ves este mensaje, es porque mi CSS no se rompió. ¡Celebremos!" 🎊
 
 ---
 
@@ -195,24 +193,30 @@ Hola, soy [Jose Rodriguez](https://www.linkedin.com/in/jose-eduardo-rodriguez-fe
 Listo para aprender y ayudar en todo lo que pueda grupo 💪!!
 
 ---
+
 ### Puroh
 
 Hola soy Puroh de Colombia, me gusta programar, uso python y otros lenguajes aun estoy aprendiendo, listo para aprender con y de ustedes en comunidad.
 
 ---
+
 ### Félix Rodríguez
+
 ![Foto de Félix Rodríguez](https://github.com/FelixRodriguezG/FelixRodriguezG/raw/main/img/banner.jpeg)
 
 Hola, soy Félix Rodríguez, desarrollador web FullStack. Hace casi dos años decidí aprender a programar y desde entonces he estado explorando y mejorando mis habilidades en desarrollo web. Estoy emocionado de colaborar y aprender junto a ustedes.
 
 [![GitHub](https://img.shields.io/badge/GitHub-FelixRodriguezG-black?logo=github&style=for-the-badge)](https://github.com/FelixRodriguezG) [![LinkedIn](https://img.shields.io/badge/LinkedIn-FelixRodriguezG-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/felixrodriguezg/)
-**¿Conectamos?**  
+**¿Conectamos?**
+
 ---
+
 ### David E. Barrera
 
 Hola a todos! Soy David Barrera de Guayaquil, Ecuador. Trabajo en desarrollo web desde hace ya 5+ años. Git y GitHub lo he aprendido a porrazos, asi que espero afinar mis conocimientos y expandirlos.
 
 ---
+
 ### Brayan Toro Bustos (@trbureiyan)
 
 Hola comunidad de CodigoFacilito!, un amable saludo a todos.
@@ -221,14 +225,14 @@ Pueden encontrar mas sobre mi en mi Bento: [bento.me/trbureiyan](https://bento.m
 
 Espero apoyar, ayudar y contribuir a esta pequeña comunidad de Github 👻
 
-
 ---
+
 ### Angel Martínez (@angelmartz)
 
 Hola, mi nombre es Angel, soy de la Ciudad de México, actualmente estudio Ingeniería en Sistemas en la Universidad UK, soy programador backend, manejo PHP, Java, Python y Javascript
 
-
 --
+
 ### Andrés Vinces [(@vincesmandres)](https://www.instagram.com/vincesmandres)
 
 ¡Hola! Soy Andrés, de Ecuador. Ingeniero Civil, Data Science Jr y un AstroGeoGeek 🌌  
@@ -242,16 +246,19 @@ Actualmente exploro el fascinante mundo del **Data Science & Machine Learning**.
 Saludos!
 
 ---
+
 ### Sandra
 
 Hola, soy desarrolladora web fullstack y me gustaría aprender y practicar git de manera colaborativa, ya que no he tenido mucha oportunidad de hacerlo.
 
 ---
+
 ### Silvano
 
 [[W3](https://lode.uno)]|[[GH](https://github.com/sjlvanq)]|[[LN](https://www.linkedin.com/in/silvano-emanuel-roqu%C3%A9s-054897133/)] Profesor de Lengua y Literatura que aprendió a escribir en el prompt del DOS y actualmente trabaja de Uber moto en Tucumán, Argentina. ~«El código con branches y workflow, todo lo demás a master/main»~
 
 ---
+
 ### Cristian Ortiz
 
 Hola, soy Cristian de Chile. Ingeniero Civil en Computación e Informática. Me deempeño como Consultor Sr, además de administrar el área de Control de Versiones del Cliente. Actualmente la tendencia nos esta dirigiendo a unirnos a las tecnologías en la nube por lo tanto, se me hace imprecindible contar con un gran conocimiento de herramientas para su utilización y actualmente quien tiene las de ganar es GIT como interprete de Control de Versiones y lo demás (GITHUB - GITLAB - BITBUCKET, etc) es algo que debe definir cada empresa y de ahí nos acoplaremos a esa decisión.
@@ -259,7 +266,9 @@ Hola, soy Cristian de Chile. Ingeniero Civil en Computación e Informática. Me 
 Saludos!!!!.
 
 ---
+
 ### Tania Rivera (taniariveradev/hackerfashion)
+
 ¡Hola! Soy Tania Rivera, tambien conocida como "hackerfashion" de México. 👽
 Actualmente trabajo como desarrolladora Android pero estoy aprendiendo sobre desarrollo iOS, IA, Unity y Unreal Engine (espero algún día poder hacer mi propio videojuego)
 Soy una programadora en constante formación, me encanta poder ayudar a los demás y a la vez aprender de las personas.
@@ -288,29 +297,29 @@ Un saludo para todos y mucho éxito en este camino del desarrollo.
 
 Hola Buenas. Mi nombre es Ariel Benitez. Acabo de cumplir 48 años, si un montón, pero siempre hay tiempo para aprender nuevas herramientas, para repasar los conocimientos en herramientas que se usan hanitualmente o no tán habitualmente.
 
-Me considero un entuciasta de las tecnologías de información y desde siemrpe busco estar informado y entrenado en distintas tecnologías. 
+Me considero un entuciasta de las tecnologías de información y desde siemrpe busco estar informado y entrenado en distintas tecnologías.
 
 Actualmente mis intereses pasan por la Ciencia de Datos. Git y gitHub son también ampliamente utilizados en Data Science, es por ello que he decidido tomar este bootcamp y deseo certificar mis conocimientos.
 
-Desde ya espero que todos logremos hacerlo 
+Desde ya espero que todos logremos hacerlo
 
 Saludos desde Corrientes - Argentina.
 
 ---
 
-### Sergio Rodriguez Rivero 
+### Sergio Rodriguez Rivero
 
 Hola, soy diseñador gráfico y UXUI, estudiando front end. Me encantó la propuesta de Daniela, es una capa, y me ayudo a lograr que suba esta presentación.
 
 Algunas de mis redes:
- https://www.behance.net/sergiofarori
- https://www.linkedin.com/in/sfarori/
+https://www.behance.net/sergiofarori
+https://www.linkedin.com/in/sfarori/
 
- ¡Exitos a todos!
+¡Exitos a todos!
 
 ---
 
-### Hugo 
+### Hugo
 
 Hola cole*gits* 😄, vivo en Bolivia, soy economista, analista de datos, emprendedor, diseñador gráfico y desarrollador web/móvil, actualmente doy clases en universidades sobre Kotlin y Desarrollo Móvil con Android Studio. Hace un tiempo aprendí Git y GitHub con el video de **freecodecamp** https://www.youtube.com/watch?v=mBYSUUnMt9M. Si bien tengo una buena base y experiencia en Git y GitHub, me interesa mucho el certificado del curso de codigofacilito y refrescar mis conocimientos, así que este repositorio me parece un buen punto de inicio para hacerlo.
 
@@ -320,9 +329,9 @@ Hola cole*gits* 😄, vivo en Bolivia, soy economista, analista de datos, empren
 
 ### Manuel
 
-¡Hola a todos!👋 
+¡Hola a todos!👋
 Soy Manuel Correa, de Perú. Soy bachiller en Ingeniería de Sistemas y tengo experiencia laboral como Analista de Aplicaciones.
-Me considero un apasionado de la tecnología, el desarrollo de software  y por seguir aprendiendo cada día. 
+Me considero un apasionado de la tecnología, el desarrollo de software y por seguir aprendiendo cada día.
 
 ---
 
@@ -332,4 +341,12 @@ Soy Jesús Oviedo Riquelme, desarrollador de software enfocado en ingeniería de
 Más sobre mí en [Medium](https://medium.com/@j92riquelme), [LinkedIn](https://linkedin.com/in/jesusoviedoriquelme) y [Twitter](https://twitter.com/jesus__oviedo)
 
 ---
+
+### Alex R. Farnes (@AlexRFarnes)
+
+Hola, soy Alex de Guatemala, me encuentro viviendo y trabajando en Taiwan como Ingeniero de Aplicaciones de Campo para una empresa de AI y Vision 3D. Me interesa el desarollo de software 💻 y estoy buscando en un futuro hacer el cambio de rol.
+Tengo conocimientos en Python y en las tecnologías del Frontend: HTML, CSS, Javascript. Actualmente estoy profundizando más en Python para el backend.
+Pueden encontrarme en [LinkedIn](https://linkedin.com/in/alexrfarnes) y [GitHub](https://github.com/AlexRFarnes) para que podamos conectar.
+Un gusto conocerlos y ser parte de este Bootcamp con todos ustedes.
+
 (Agregá tu nombre aquí con una breve presentación [ver los ejemplos al inicio])
