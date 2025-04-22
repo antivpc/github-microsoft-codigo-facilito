@@ -1,3 +1,5 @@
+![Portada](/res/portada.gif)
+
 # github-microsoft-codigo-facilito
 
 ¡Bienvenidos y bienvenidas!
