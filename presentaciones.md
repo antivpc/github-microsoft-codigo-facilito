@@ -349,4 +349,13 @@ Tengo conocimientos en Python y en las tecnologías del Frontend: HTML, CSS, Jav
 Pueden encontrarme en [LinkedIn](https://linkedin.com/in/alexrfarnes) y [GitHub](https://github.com/AlexRFarnes) para que podamos conectar.
 Un gusto conocerlos y ser parte de este Bootcamp con todos ustedes.
 
+---
+
+### Alejandro Sepúlveda (@sptral)
+
+Hola, soy Alejandro Sepúlveda, soy de México. Ingeniero en sistemas computacionales y estudiante de las tecnologias de la informacion. Actualmente estoy reafirmando mis conocimientos de Git y GitHub para poder desarrollar mis proyectos con el bootcamp de codigofacilito. Espero aprender mucho y aprender de todos ustedes.
+Pueden contactarme en Threema: TX8WPBRS, y [GitHub](https://github.com/sptral).
+Sera un gusto conocerte.
+
 (Agregá tu nombre aquí con una breve presentación [ver los ejemplos al inicio])
+
