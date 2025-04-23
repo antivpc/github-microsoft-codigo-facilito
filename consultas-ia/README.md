@@ -1,3 +1,5 @@
+![Portada Consultas a la IA](/res/consultasia.gif)
+
 # CONSULTAS REALIZADAS A LA IA
 
 Este directorio se ha creado con la finalidad de que todos los que colaboran en este repositorio puedan guardar las consultas realizadas a una Inteligencia Artificial, con la finalidad de que se vaya creando una base de conocimiento ordenada o repositorio de documentación, para consulta rápida y específica.
