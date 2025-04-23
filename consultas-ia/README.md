@@ -12,7 +12,7 @@ Se recomienda seguir las reglas descritas más abajo, para realizar los aportes 
 ### NOMBRE Y FORMATO DEL ARCHIVO
 
 - El nombre del archivo debe contener información concreta y precisa del contenido, como ejemplo, si se consulta a una IA sobre un comando de Git y su uso, el nombre del archivo debería indicar que se trata de un ```comando``` seguido del ```nombre del comando```, como el primer aporte que se tiene en este directorio ```comandos-stash-y-staged.md```.
-- El formato del archivo debe ser **Markdown** y la extensión del archivo debe ser ````.md```.
+- El formato del archivo debe ser **Markdown** y la extensión del archivo debe ser ```.md```.
 - Las palabras que componen el nombre del archivo deben estar separadas por guiones ```-```.
 
 ### CONTENIDO DEL ARCHIVO
