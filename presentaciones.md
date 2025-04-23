@@ -359,3 +359,15 @@ Sera un gusto conocerte.
 
 (Agregá tu nombre aquí con una breve presentación [ver los ejemplos al inicio])
 
+---
+
+### Guillermo Aguilera Hurtado (@Best-Gagil)
+
+Hola a todos, me llamo Guillermo Aguilera Hurtado 🇨🇴 y soy de Colombia. Actualmente me encuentro viviendo y estudiando en Bogotá como Ingeniero Mecatrónico 🤖 con énfasis en Internet of Things (IoT) 🌐, Blockchain 🔗 e Inteligencia Artificial (IA) 🤖.
+
+Me apasiona la tecnología 💻 y estar a la vanguardia de las últimas tendencias e innovaciones. Durante mi carrera, he desarrollado habilidades en programación, diseño de sistemas embebidos y automatización industrial. Además, me interesa mucho por las aplicaciones de la IA 🧠 y el Blockchain 🔐 en diversos sectores, como la logística, la seguridad y la gestión de datos.
+Pueden encontrarme en [LinkedIn](https://www.linkedin.com/in/guillermo-aguilera-hurtado-158208205/) 💼 y [GitHub](https://github.com/Best-Gagil) 🐱‍👤 para que podamos conectar y compartir más sobre nuestros intereses y proyectos.
+
+## ¡Es un gusto formar parte de este Bootcamp 🏫 junto a todos ustedes! Espero poder aprender 🧠 y colaborar activamente durante el programa. ✨
+
+---
