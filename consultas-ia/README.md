@@ -17,7 +17,7 @@ Se recomienda seguir las reglas descritas más abajo, para realizar los aportes 
 
 ### CONTENIDO DEL ARCHIVO
 
-- El título inicial del archivo vendría a ser el mismo del archivo pero añadiendo entre paréntesis la IA que se consultó, para fines informativos y estadísticos sobre IAs utilizadas.
+- El título inicial del archivo vendría a ser el mismo nombre del archivo .md pero añadiendo entre paréntesis la IA que se consultó, para fines informativos y estadísticos sobre IAs utilizadas.
 - Las partes del contenido que se consideren líneas de código o instrucciones en terminal formatearlas para que se puedan diferenciar del texto normal, para ello se utiliza las tildes invertidas `` que se insertan al principio y al final del código en grupos de tres.
 - El formato del resto del contenido tratar de que sea lo más estético y ordenado.
 
