@@ -93,7 +93,7 @@ Hola soy Tomy de Bolivia, me gusta programar, uso python y aun estoy aprendiendo
 
 ### Frantizek
 
-#### 🪩 ¡Hola Mundo!, soy Francisco... 🎉
+**  🪩 ¡Hola Mundo!, soy Francisco... 🎉  **
 
 > 🚀 "Si el código compila a la primera, sospecha."
 
@@ -275,7 +275,7 @@ Soy una programadora en constante formación, me encanta poder ayudar a los dem�
 Soy apasionada por el mundo geek, los videojuegos, la seguridad informática, cómics y gadgets.
 Estoy lista para aprender y ayudar en todo lo que pueda al grupo, no dudes en escribirme Let's GoO!! 💻 📲 👽
 
-<h2>NOTA: Si consideras útil el código, o es de tu gusto por favor apoyame haciendo "⭐ Star" en mi repositorio. ¡Gracias desde ya!</h2>
+** NOTA: Si consideras útil el código, o es de tu gusto por favor apoyame haciendo "⭐ Star" en mi repositorio. ¡Gracias desde ya! **
 
 [![GitHub](https://img.shields.io/badge/GitHub-taniariveradev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taniariveradev)
 
@@ -357,7 +357,6 @@ Hola, soy Alejandro Sepúlveda, soy de México. Ingeniero en sistemas computacio
 Pueden contactarme en Threema: TX8WPBRS, y [GitHub](https://github.com/sptral).
 Sera un gusto conocerte.
 
-(Agregá tu nombre aquí con una breve presentación [ver los ejemplos al inicio])
 
 ---
 
@@ -368,7 +367,7 @@ Hola a todos, me llamo Guillermo Aguilera Hurtado 🇨🇴 y soy de Colombia. Ac
 Me apasiona la tecnología 💻 y estar a la vanguardia de las últimas tendencias e innovaciones. Durante mi carrera, he desarrollado habilidades en programación, diseño de sistemas embebidos y automatización industrial. Además, me interesa mucho por las aplicaciones de la IA 🧠 y el Blockchain 🔐 en diversos sectores, como la logística, la seguridad y la gestión de datos.
 Pueden encontrarme en [LinkedIn](https://www.linkedin.com/in/guillermo-aguilera-hurtado-158208205/) 💼 y [GitHub](https://github.com/Best-Gagil) 🐱‍👤 para que podamos conectar y compartir más sobre nuestros intereses y proyectos.
 
-## ¡Es un gusto formar parte de este Bootcamp 🏫 junto a todos ustedes! Espero poder aprender 🧠 y colaborar activamente durante el programa. ✨
+** ¡Es un gusto formar parte de este Bootcamp 🏫 junto a todos ustedes! Espero poder aprender 🧠 y colaborar activamente durante el programa. ✨ **
 
 ---
 
@@ -376,3 +375,6 @@ Pueden encontrarme en [LinkedIn](https://www.linkedin.com/in/guillermo-aguilera-
 
 Hola a todos, mi nombre es **Diego Muñoz** soy chileno 🇨🇱 y me dedico al desarrollo de software hace ya casi 3 años y medio, soy estudiante de ingeniería en desarrollo de software, fanático de la ciberseguridad 👨🏻‍💻, la nube ☁, el IOT 🦾 y los misterios del universo 🛸👽 😁, mayormente he sido autodidacta y así logré llegar a trabajar como desarrollador, con esté bootcamp busco reforzar conocimiento y lograr obtener la certificación 🤓
 
+---
+  
+(Agregá tu nombre aquí junto a una breve presentación [ver los ejemplos al inicio])
