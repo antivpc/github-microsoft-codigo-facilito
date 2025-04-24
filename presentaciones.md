@@ -371,3 +371,8 @@ Pueden encontrarme en [LinkedIn](https://www.linkedin.com/in/guillermo-aguilera-
 ## ¡Es un gusto formar parte de este Bootcamp 🏫 junto a todos ustedes! Espero poder aprender 🧠 y colaborar activamente durante el programa. ✨
 
 ---
+
+### Diego Muñoz | <a style="width:200px;">[![GitHub](https://img.shields.io/badge/GitHub-181718?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DimmoX)</a>
+
+Hola a todos, mi nombre es **Diego Muñoz** soy chileno 🇨🇱 y me dedico al desarrollo de software hace ya casi 3 años y medio, soy estudiante de ingeniería en desarrollo de software, fanático de la ciberseguridad 👨🏻‍💻, la nube ☁, el IOT 🦾 y los misterios del universo 🛸👽 😁, mayormente he sido autodidacta y así logré llegar a trabajar como desarrollador, con esté bootcamp busco reforzar conocimiento y lograr obtener la certificación 🤓
+
