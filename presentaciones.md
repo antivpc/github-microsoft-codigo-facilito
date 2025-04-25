@@ -389,6 +389,12 @@ Les comparto mis redes sociales para que podamos hacer Networking y mantengamos 
 
 **Buena suerte a todos💪😎**
 
----
-  
+### Javier Arreortúa
+
+Hola, soy programador desde hace ya 30 años, poco más, pero bueno, soy programador de aplicaciones de escritorio, lenguajes de programación C#.Net, VB.Net, Algo de Asp.Net, React y Clipper (Aplicaciones DOS), me encantan los retos, soy autodidacta, y me encanta resolver problemas, así que vamos por este nuevo reto para aumentar mis habilidades, espero apoyar y ser apoyado por todo el grupo.
+
+**Happy coding**
+
+--- 
+
 (Agregá tu nombre aquí junto a una breve presentación [ver los ejemplos al inicio])
