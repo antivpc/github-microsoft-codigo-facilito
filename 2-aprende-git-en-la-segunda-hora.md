@@ -6,6 +6,7 @@ Guia practica de comandos utilices para aprender en git.
 
 - [Comando Bisect](#comando-bisect)
 - [Guía de cómo deshacer el último commit con git](#guía-de-cómo-deshacer-el-último-commit-con-git)
+- [Comando cherry-pick](#cherry-pick)
 
 ---
 
@@ -88,6 +89,9 @@ $ git reset HEAD~1
 # para devolver una rama remota
 $ git revert HEAD 
 ```
+
+## Cherry-pick
+El comando git cherry-pick copia uno o más commits específicos de una rama a otra. Esto permite aplicar cambios seleccionados sin fusionar ramas completas. Es útil para trasladar correcciones o características puntuales entre ramas.
 
 ```bash
 # añade los commits a la rama donde estoy parado
