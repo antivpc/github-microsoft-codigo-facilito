@@ -21,7 +21,8 @@ Encontrarás recursos útiles sobre certificación GitHub en el archivo [recurso
 
 ## Aprende en una hora
 
-Si estas empezando y no tienes mucho tiempo, entonces [Aprende git en una hora](aprende-git-en-una-hora.md).
+* Si estas empezando y no tienes mucho tiempo, entonces [Aprende git en una hora](1-aprende-git-en-una-hora.md).
+* Si necesitas algo mas complejo entonces avanza a la [Segunda hora](2-aprende-git-en-la-segunda-hora.md).
 
 ## ¿Ideas para proyectos?
 

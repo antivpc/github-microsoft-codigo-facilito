@@ -193,8 +193,7 @@ Hola, soy [Jose Rodriguez](https://www.linkedin.com/in/jose-eduardo-rodriguez-fe
 Listo para aprender y ayudar en todo lo que pueda grupo 💪!!
 
 ---
-
-### Puroh
+### [Puroh](https://github.com/puroh)
 
 Hola soy Puroh de Colombia, me gusta programar, uso python y otros lenguajes aun estoy aprendiendo, listo para aprender con y de ustedes en comunidad.
 
