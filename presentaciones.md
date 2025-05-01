@@ -398,4 +398,18 @@ Hola, soy programador desde hace ya 30 años, poco más, pero bueno, soy program
 
 --- 
 
+### Ronald Jaime
+ 
+**¡Hola a todos los lectores!** 👋  
+
+Mi nombre es Ronald, vivo en Perú, y soy estudiante de la carrera de **Computación e Informática**, enfocado en el desarrollo de software 💻. Actualmente me especializo en el desarrollo Back End, especialmente con **Java** ☕, ya que es el lenguaje que más me gustó por su sintaxis, legibilidad y tipado. Además, también tengo experiencia con **.NET, SQL Server y MySQL**.  
+
+Soy más de ser autodidacta, me gusta investigar e ir avanzando con los temas en diversas plataformas. Eso me llevó a formar parte del programa **ONE (Oracle Next Education)**, desarrollado por Alura Latam junto a Oracle, en el cual fortalecí mis conocimientos en diversas áreas.  
+
+He realizado proyectos académicos, propios y grupales, pero me gustaría formar parte de proyectos con diferentes personas del mundo 🌍 para afianzar mi experiencia, divertirnos y apoyarnos. **¡Éxitos a todos!** ✨
+
+✨ **LinkedIn:** www.linkedin.com/in/ronaldjaimeduran  
+
+--- 
+
 (Agregá tu nombre aquí junto a una breve presentación [ver los ejemplos al inicio])
