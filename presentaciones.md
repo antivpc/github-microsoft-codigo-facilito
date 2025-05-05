@@ -410,6 +410,19 @@ He realizado proyectos académicos, propios y grupales, pero me gustaría formar
 
 ✨ **LinkedIn:** www.linkedin.com/in/ronaldjaimeduran  
 
+
+### Daniel Gomez ([Daga321](https://www.github.com/Daga321)) 👨‍💻
+
+¡Hola a todos! 👋
+
+Soy **Daniel Gómez**, orgullosamente colombiano y estudiante de **Ingeniería de Sistemas y Computación** en la *Universidad Pedagógica y Tecnológica de Colombia (UPTC)*, actualmente en etapa de **terminación académica**.
+
+Durante mi formación he desarrollado habilidades en tecnologías como **Java**, **Python** y **C#**, y aprendí a utilizar **GitHub** por cuenta propia, explorando tutoriales, foros y muchos intentos fallidos 😅. Y es por ello que estoy agradecido con este curso, ha sido una excelente oportunidad para fortalecer ese conocimiento 🚀.
+
+Además, estoy trabajando en la creación de mi propia **startup** llamada [**Hypereds**](https://www.github.com/Hypereds), enfocada en desarrollo de software y servicios de hosting, junto con compañeros y docentes de mi universidad. Aplicando lo aprendido en este curso, construí una organización en GitHub para gestionar nuestros repositorios, lo cual ha mejorado significativamente nuestra logística de trabajo 🛠️.
+
+También ha sido útil para separar de forma clara mis proyectos personales de los de la organización, un gran paso hacia un perfil más profesional 💼.
+
 --- 
 
 (Agregá tu nombre aquí junto a una breve presentación [ver los ejemplos al inicio])
