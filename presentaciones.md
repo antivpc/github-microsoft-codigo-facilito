@@ -412,4 +412,10 @@ He realizado proyectos académicos, propios y grupales, pero me gustaría formar
 
 --- 
 
+### Jorge Villalobos
+
+Hola a todos, soy estudiante de Matematicas y me encanta resolver problemas, estoy capacitandome para ciencia de datos.
+
+---
+
 (Agregá tu nombre aquí junto a una breve presentación [ver los ejemplos al inicio])
