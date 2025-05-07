@@ -410,6 +410,7 @@ He realizado proyectos académicos, propios y grupales, pero me gustaría formar
 
 ✨ **LinkedIn:** www.linkedin.com/in/ronaldjaimeduran  
 
+---
 
 ### Daniel Gomez ([Daga321](https://www.github.com/Daga321)) 👨‍💻
 
