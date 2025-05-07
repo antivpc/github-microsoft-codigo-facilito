@@ -39,12 +39,21 @@ Puedes consultar el listado completo de beneficios en su sitio oficial:
 
 Antes de aplicar a GitHub Education, debes cumplir con los siguientes requisitos:
 
+- Tener un correo electrónico institucional asociado y verificado en tu cuenta de GitHub
 - Tener habilitada la autenticación en dos pasos (2FA).
 - Diligenciar tu información de facturación (sin necesidad de añadir métodos de pago).
 
 ---
 
-## 3. Activar la autenticación en dos pasos (2FA)
+## 3. Asociar y verificar un correo institucional
+
+1. Ve a [https://github.com/settings/emails](https://github.com/settings/emails)
+2. En la sección **Add email address**, agrega tu correo institucional.
+3. Accede a tu bandeja de entrada del correo institucional. Busca el mensaje de verificación enviado por GitHub. Este puede estar en la carpeta de **Spam**, **Social**, **Promociones** u **otra**, según el proveedor de correo.
+
+---
+
+## 4. Activar la autenticación en dos pasos (2FA)
 
 1. Ve a [https://github.com/settings/security](https://github.com/settings/security).
 2. Desplázate hasta el encabezado **Two-Factor Authentication**.
@@ -72,7 +81,7 @@ Antes de aplicar a GitHub Education, debes cumplir con los siguientes requisitos
 
 ---
 
-## 4. Diligenciar información de facturación
+## 5. Diligenciar información de facturación
 
 1. Accede a [https://github.com/settings/billing/payment_information](https://github.com/settings/billing/payment_information).
 2. Completa el formulario de **Billing Information** con tu nombre completo (como figura en tu documento académico). Una vez completado, verás una vista como la siguiente:
@@ -85,7 +94,7 @@ Antes de aplicar a GitHub Education, debes cumplir con los siguientes requisitos
 
 ---
 
-## 5. Aplicar a GitHub Education
+## 6. Aplicar a GitHub Education
 
 1. Dirígete a [https://github.com/settings/education/benefits](https://github.com/settings/education/benefits).
 2. Haz clic en **Start an application**.
@@ -106,7 +115,7 @@ Antes de aplicar a GitHub Education, debes cumplir con los siguientes requisitos
 
 ---
 
-## 6. Estados del proceso de aplicación
+## 7. Estados del proceso de aplicación
 
 Una vez enviada la solicitud, puede pasar por los siguientes estados:
 
@@ -130,15 +139,17 @@ Indica que la solicitud fue rechazada. Se incluye el motivo del rechazo.
 
 ### 3. Aprobado
 
-Indica que la aplicación fue aceptada. Se mostrará la fecha hasta la cual podrás disfrutar de los beneficios.  
+Indica que la aplicación fue aceptada. Se mostrará la fecha hasta la cual podrás disfrutar de los beneficios.
 
-<div style="text-align: center;">
-   <img src="./Aplicar-a-github-education/estado-aprobado.png" alt="Estado aprobado" width="500px"/>
-</div>
+<div style="text-align: center;"> <img src="./Aplicar-a-github-education/estado-aprobado.png" alt="Estado aprobado" width="500px"/> </div>
+
+Entre 24 y 48 horas después de la aprobación, tendrás acceso a una vista más detallada de los recursos disponibles.
+
+<div style="text-align: center;"> <img src="./Aplicar-a-github-education/estado-aprobado-2.png" alt="Estado aprobado detallado" width="500px"/> </div>
 
 ---
 
-## 7. Acceso a beneficios tras la aprobación
+## 8. Acceso a beneficios tras la aprobación
 
 Una vez aprobada la solicitud, GitHub invita a explorar todos los beneficios disponibles a través de su plataforma:  
 [https://education.github.com/pack](https://education.github.com/pack)
