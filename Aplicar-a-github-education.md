@@ -10,11 +10,12 @@
 - [¿Por qué es importante este proceso?](#por-qu%C3%A9-es-importante-este-proceso)
 - [1. ¿Qué es GitHub Education?](#1-qu%C3%A9-es-github-education)
 - [2. Requisitos previos](#2-requisitos-previos)
-- [3. Activar la autenticación en dos pasos (2FA)](#3-activar-la-autenticaci%C3%B3n-en-dos-pasos-2fa)
-- [4. Diligenciar información de facturación](#4-diligenciar-informaci%C3%B3n-de-facturaci%C3%B3n)
-- [5. Aplicar a GitHub Education](#5-aplicar-a-github-education)
-- [6. Estados del proceso de aplicación](#6-estados-del-proceso-de-aplicaci%C3%B3n)
-- [7. Acceso a beneficios tras la aprobación](#7-acceso-a-beneficios-tras-la-aprobaci%C3%B3n)
+- [3. Asociar y verificar un correo institucional](#3-asociar-y-verificar-un-correo-institucional)
+- [4. Activar la autenticación en dos pasos (2FA)](#4-activar-la-autenticaci%C3%B3n-en-dos-pasos-2fa)
+- [5. Diligenciar información de facturación](#5-diligenciar-informaci%C3%B3n-de-facturaci%C3%B3n)
+- [6. Aplicar a GitHub Education](#6-aplicar-a-github-education)
+- [7. Estados del proceso de aplicación](#7-estados-del-proceso-de-aplicaci%C3%B3n)
+- [8. Acceso a beneficios tras la aprobación](#8-acceso-a-beneficios-tras-la-aprobaci%C3%B3n)
 
 ---
 
