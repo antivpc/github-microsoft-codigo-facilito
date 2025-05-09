@@ -1,6 +1,7 @@
 name: Playlist colaborativa
 on:
   push:
+    branches: [ "main" ]
     paths:
       - 'playlist.src'
 
