@@ -447,4 +447,6 @@ Mil gracias a Daniela por la fantástica iniciativa 🧡 ¡Encantada de estar po
 
 ---
 
-(Agregá tu nombre aquí junto a una breve presentación [ver los ejemplos al inicio])
+### Rosa
+
+¡Hola! Soy Rosa y vivo en España. Estoy aprendiendo python, ciencia de datos, IA y ¡agradezco la oportunidad de poder practicar GitHub en equipo!
