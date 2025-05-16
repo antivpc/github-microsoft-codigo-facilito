@@ -34,8 +34,9 @@ jobs:
 
     - name: Commit y push
       run: |
+        git checkout -B action-playlist
         git add Playlist.md
         git commit -m "🎼🎼 La Radio 🎼🎼"
-        git push origin HEAD
+        git push -f origin action-playlist
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

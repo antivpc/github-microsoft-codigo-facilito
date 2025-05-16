@@ -51,6 +51,12 @@ En mi tiempo libre(aunque tengo poco) me gusta estudiar Rust, Terraform, y adema
 
 ---
 
+### Luis D
+Hola a todos, soy de santiago de chile, **apasionado** por el mundo **linux, python y seguridad**. Actualmente soy administrador de plataformas senior enfocado en una herramienta de monitoreo llamada Zabbix.
+En mis ratos libres me gusta la lectura y caminatas, ideal si es en cerro tipo treeking. También estoy estudiando para aprender del mundo DevOps con herramientas de iac como `terraform` `git` y por su puesto github Actions
+
+---
+
 ### Rel
 
 Hola, soy Rel Guzmán, de Perú. Programo en Python y JavaScript. Me enfoqué en la etapa de diseño y frontend hasta ahora y trabajo con los stacks MERN / PERN / MENN para cosas web. Sé mucho sobre la IA teórica. Me gustaría profundizar en DevOps con Github, si es que de eso se trata el bootcamp.
@@ -447,4 +453,6 @@ Mil gracias a Daniela por la fantástica iniciativa 🧡 ¡Encantada de estar po
 
 ---
 
-(Agregá tu nombre aquí junto a una breve presentación [ver los ejemplos al inicio])
+### Rosa
+
+¡Hola! Soy Rosa y vivo en España. Estoy aprendiendo python, ciencia de datos, IA y ¡agradezco la oportunidad de poder practicar GitHub en equipo!
